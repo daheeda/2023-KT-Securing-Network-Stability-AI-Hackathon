@@ -1,6 +1,6 @@
 # 2023-KT-Securing-Network-Stability-AI-Hackathon
 
-## About
+## 🎧 About
 
 https://aifactory.space/task/2513/overview
 
@@ -24,13 +24,13 @@ https://aifactory.space/task/2513/overview
 
 채점 기준 : 정확도(Accuracy)
 
-## Team : KT-WIZ
+## 🎧 Team : KT-WIZ
 
 Team Leader : 최다희
 
 Team Member : 양지우, 이혁준, 정준호
 
-## Result
+## 🎧 Result
 
 최우수상,
 분야 1 score : 0.397
